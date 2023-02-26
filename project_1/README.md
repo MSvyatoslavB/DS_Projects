@@ -1,17 +1,17 @@
 # Проект 1. Анализ резюме из HeadHunter
 
 ## Оглавление
-[1. Описание проекта](https://github.com/MSvyatoslavB/PYTHON-8.-Data-Science/tree/master/project_1/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/MSvyatoslavB/PYTHON-8.-Data-Science/tree/master/project_1/README.md#Какой-кейс-решаем?)   
-[3. Условия выполнения:](https://github.com/MSvyatoslavB/PYTHON-8.-Data-Science/tree/master/project_1/README.md#Условия-выполнения)     
-[4. Требования к оформлению ноутбука](https://github.com/MSvyatoslavB/PYTHON-8.-Data-Science/tree/master/project_1/READMEmd#Требования-к-оформлению-ноутбука)      
-[5. Что практикуем?](https://github.com/MSvyatoslavB/PYTHON-8.-Data-Science/tree/master/project_1/READMEmd#Что-практикуем)      
-[6. Результаты](https://github.com/MSvyatoslavB/PYTHON-8.-Data-Science/tree/master/project_1/README.md#Результаты)
+[1. Описание проекта](https://github.com/MSvyatoslavB/DS_Projects/tree/master/project_1/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/MSvyatoslavB/DS_Projects/tree/master/project_1/README.md#Какой-кейс-решаем?)   
+[3. Условия выполнения:](https://github.com/MSvyatoslavB/DS_Projects/tree/master/project_1/README.md#Условия-выполнения)     
+[4. Требования к оформлению ноутбука](https://github.com/MSvyatoslavB/DS_Projects/tree/master/project_1/README.md#Требования-к-оформлению-ноутбука)      
+[5. Что практикуем?](https://github.com/MSvyatoslavB/DS_Projects/tree/master/project_1/README.md#Что-практикуем)      
+[6. Результаты](https://github.com/MSvyatoslavB/DS_Projects/tree/master/project_1/README.md#Результаты)
 
 ### Описание поекта:
 Провести обработку данных из базы резюме, выгруженной с сайта поиска вакансий hh.ru
 
-:arrow_up: [к оглавлению](https://github.com/MSvyatoslavB/PYTHON-8.-Data-Science/tree/master/project_1/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/MSvyatoslavB/DS_Projects/tree/master/project_1/README.md#Оглавление)
 
 ### Какой кейс решаем?
 1. Базовый анализ структуры данных
@@ -19,14 +19,14 @@
 3. Разведывательный анализ
 4. Очистка данных
 
-:arrow_up: [к оглавлению](https://github.com/MSvyatoslavB/PYTHON-8.-Data-Science/tree/master/project_1/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/MSvyatoslavB/DS_Projects/tree/master/project_1/README.md#Оглавление)
 
 ### Условия выполнения:
 - Каждая часть состоит из блока практических заданий, которые необходимо выполнить в jupyter-ноутбуке;   
 - Ноутбук необходимо оформить на основе предоставленного шаблона и требований;  
 - Отправить свой код ментору для code-ревью.
 
-:arrow_up: [к оглавлению](https://github.com/MSvyatoslavB/PYTHON-8.-Data-Science/tree/master/project_1/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/MSvyatoslavB/DS_Projects/tree/master/project_1/README.md#Оглавление)
 
 ### Требования к оформлению ноутбука
 
@@ -41,17 +41,17 @@
 - Обязательное требование: графики должны содержать название, отражающее их суть, и подписи осей;
 - Выводы к графикам оформляются в формате Markdown под самим графиком в отдельной ячейке (в шаблоне они помечены как ваши выводы здесь). Выводы должны быть представлены в виде небольших связанных предложений на русском языке.
 
-:arrow_up: [к оглавлению](https://github.com/MSvyatoslavB/PYTHON-8.-Data-Science/tree/master/project_1/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/MSvyatoslavB/DS_Projects/tree/master/project_1/README.md#Оглавление)
 
 ### Что практикуем?
 
 Работу с данными и оформление отчетов с помощью средств python
 
-:arrow_up: [к оглавлению](https://github.com/MSvyatoslavB/PYTHON-8.-Data-Science/tree/master/project_1/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/MSvyatoslavB/DS_Projects/tree/master/project_1/README.md#Оглавление)
 
 
 ### Результаты:
 [Ссылка на датасет](https://drive.google.com/drive/folders/1p8FAEdH_bN3LjkzI3VHpT-MOvAz8eAve)   
 [Ссылка на графики](https://drive.google.com/drive/folders/1MrbKPT__wDLfbqxSSjPp6BjhKhIVfD6L)
 
-:arrow_up: [к оглавлению](https://github.com/MSvyatoslavB/PYTHON-8.-Data-Science/tree/master/project_1/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/MSvyatoslavB/DS_Projects/tree/master/project_1/README.md#Оглавление)
