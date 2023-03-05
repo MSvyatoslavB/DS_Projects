@@ -3,10 +3,10 @@
 ## Оглавление
 [1. Описание проекта](https://github.com/MSvyatoslavB/DS_Projects/tree/master/project_1/README.md#Описание-проекта)  
 [2. Какой кейс решаем?](https://github.com/MSvyatoslavB/DS_Projects/tree/master/project_1/README.md#Какой-кейс-решаем?)   
-[3. Условия выполнения:](https://github.com/MSvyatoslavB/DS_Projects/tree/master/project_1/README.md#Условия-выполнения)     
-[4. Требования к оформлению ноутбука](https://github.com/MSvyatoslavB/DS_Projects/tree/master/project_1/README.md#Требования-к-оформлению-ноутбука)      
-[5. Что практикуем?](https://github.com/MSvyatoslavB/DS_Projects/tree/master/project_1/README.md#Что-практикуем)      
-[6. Результаты](https://github.com/MSvyatoslavB/DS_Projects/tree/master/project_1/README.md#Результаты)
+[3. Краткая информация о данных](https://github.com/MSvyatoslavB/DS_Projects/tree/master/project_1/README.md#Краткая-информация-о-данных)   
+[4. Этапы работы над проектом](https://github.com/MSvyatoslavB/DS_Projects/tree/master/project_1/README.md#Этапы-работы-над-проектом)     
+[5. Результат](https://github.com/MSvyatoslavB/DS_Projects/tree/master/project_1/README.md#Результат)      
+[6. Выводы](https://github.com/MSvyatoslavB/DS_Projects/tree/master/project_1/README.md#Выводы)      
 
 ### Описание поекта:
 Провести обработку данных из базы резюме, выгруженной с сайта поиска вакансий hh.ru
@@ -19,17 +19,35 @@
 3. Разведывательный анализ
 4. Очистка данных
 
-:arrow_up: [к оглавлению](https://github.com/MSvyatoslavB/DS_Projects/tree/master/project_1/README.md#Оглавление)
-
-### Условия выполнения:
+**Условия соревнования:**
 - Каждая часть состоит из блока практических заданий, которые необходимо выполнить в jupyter-ноутбуке;   
 - Ноутбук необходимо оформить на основе предоставленного шаблона и требований;  
 - Отправить свой код ментору для code-ревью.
 
+**Метрика качества**     
+Для успешного выполнения проекта необходимо набрать 21 балл из 40 возможных.
+
+**Что практикуем?**     
+Работу с данными и оформление отчетов с помощью средств python
+
+### Краткая информация о данных
+База резюме, выгруженная с сайта поиска вакансий hh.ru
+
 :arrow_up: [к оглавлению](https://github.com/MSvyatoslavB/DS_Projects/tree/master/project_1/README.md#Оглавление)
 
-### Требования к оформлению ноутбука
+### Этапы работы над проектом   
+- Внимательно изучить детали задачи.
+- Скачать уже знакомый датасет и ноутбук-шаблон.
+- Обязательно ознакомиться с дополнительным теоретическим материалом, который даётся перед заданием.
+- Воспользоваться нашими советами и подсказками при выполнении проекта.
+- Ответить на все контрольные вопросы: за них вы можете максимально набрать 30 баллов на платформе.
+- Загрузить ноутбук со своим решением на GitHub, оформив его в соответствии с требованиями.
+- Сдать проект на проверку и получить 10 баллов (из них 8 баллов — за основное задание и 2 балла — за дополнительное) за выводы по разведывательному анализу.
+- Получить обратную связь от команды курса.
 
+:arrow_up: [к оглавлению](https://github.com/MSvyatoslavB/DS_Projects/tree/master/project_1/README.md#Оглавление)
+
+### Результат   
 - Решение оформляется только в Jupyter Notebook;
 - Решение оформляется в соответствии с ноутбуком-шаблоном;
 - Каждое задание выполняется в отдельной ячейке, выделенной под задание (в шаблоне они помечены как ваш код здесь);
@@ -43,14 +61,7 @@
 
 :arrow_up: [к оглавлению](https://github.com/MSvyatoslavB/DS_Projects/tree/master/project_1/README.md#Оглавление)
 
-### Что практикуем?
-
-Работу с данными и оформление отчетов с помощью средств python
-
-:arrow_up: [к оглавлению](https://github.com/MSvyatoslavB/DS_Projects/tree/master/project_1/README.md#Оглавление)
-
-
-### Результаты:
+### Выводы
 [Ссылка на датасет](https://drive.google.com/drive/folders/1p8FAEdH_bN3LjkzI3VHpT-MOvAz8eAve)   
 [Ссылка на графики](https://drive.google.com/drive/folders/1MrbKPT__wDLfbqxSSjPp6BjhKhIVfD6L)
 
