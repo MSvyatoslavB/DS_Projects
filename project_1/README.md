@@ -1,6 +1,6 @@
-# Проект 1. Анализ резюме из HeadHunter
+# Проект 1. Анализ резюме из HeadHunter 
 
-## Оглавление
+## Оглавление   
 [1. Описание проекта](https://github.com/MSvyatoslavB/DS_Projects/tree/master/project_1/README.md#Описание-проекта)  
 [2. Какой кейс решаем?](https://github.com/MSvyatoslavB/DS_Projects/tree/master/project_1/README.md#Какой-кейс-решаем?)   
 [3. Краткая информация о данных](https://github.com/MSvyatoslavB/DS_Projects/tree/master/project_1/README.md#Краткая-информация-о-данных)   
@@ -8,18 +8,18 @@
 [5. Результат](https://github.com/MSvyatoslavB/DS_Projects/tree/master/project_1/README.md#Результат)      
 [6. Выводы](https://github.com/MSvyatoslavB/DS_Projects/tree/master/project_1/README.md#Выводы)      
 
-### Описание поекта:
+### Описание поекта:    
 Провести обработку данных из базы резюме, выгруженной с сайта поиска вакансий hh.ru
 
 :arrow_up: [к оглавлению](https://github.com/MSvyatoslavB/DS_Projects/tree/master/project_1/README.md#Оглавление)
 
-### Какой кейс решаем?
+### Какой кейс решаем?  
 1. Базовый анализ структуры данных
 2. Преобразование данных
 3. Разведывательный анализ
 4. Очистка данных
 
-**Условия соревнования:**
+**Условия соревнования:**   
 - Каждая часть состоит из блока практических заданий, которые необходимо выполнить в jupyter-ноутбуке;   
 - Ноутбук необходимо оформить на основе предоставленного шаблона и требований;  
 - Отправить свой код ментору для code-ревью.
@@ -61,7 +61,7 @@
 
 :arrow_up: [к оглавлению](https://github.com/MSvyatoslavB/DS_Projects/tree/master/project_1/README.md#Оглавление)
 
-### Выводы
+### Выводы  
 [Ссылка на датасет](https://drive.google.com/drive/folders/1p8FAEdH_bN3LjkzI3VHpT-MOvAz8eAve)   
 [Ссылка на графики](https://drive.google.com/drive/folders/1MrbKPT__wDLfbqxSSjPp6BjhKhIVfD6L)
 
