@@ -26,7 +26,12 @@
 :arrow_up: [к оглавлению](https://github.com/MSvyatoslavB/DS_Projects/tree/master/project_2/README.md#Оглавление)
 
 ### Этапы работы над проектом
-
+Формат ноутбука с решением:
+1. Номер задания
+2. Код для получения ответа
+3. Результат запроса
+4. Выводы по блоку заданий
+5. Общий вывод в конце по результатам анализа, имеющихся данных по вакансиям
 
 :arrow_up: [к оглавлению](https://github.com/MSvyatoslavB/DS_Projects/tree/master/project_2/README.md#Оглавление)
 
@@ -43,6 +48,6 @@
 
 
 ### Выводы
-
+https://github.com/MSvyatoslavB/DS_Projects/blob/master/project_2/Project_2_Ноутбук_шаблон.ipynb
 
 :arrow_up: [к оглавлению](https://github.com/MSvyatoslavB/DS_Projects/tree/master/project_2/README.md#Оглавление)
